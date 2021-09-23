@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AbhiGaur472003
-- 👀 I’m interested in Web Development and competitive coding.
+- 👀 I’m interested in Software Developer , Web Development and competitive coding.
 - 🌱 I’m currently learning python,React.
 
 - 📫 How to reach me can mail me in gaur.abhshek472003@gmail.com.
