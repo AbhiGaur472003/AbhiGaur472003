@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AbhiGaur472003
-- 👀 I’m interested in Software Developer , Web Development and competitive coding.
-- 🌱 I’m currently learning python,OOPS in c++.
+- 👀 I’m a Software Engineer Intern
 
 - 📫 How to reach me can mail me in gaur.abhishek472003@gmail.com.
 
