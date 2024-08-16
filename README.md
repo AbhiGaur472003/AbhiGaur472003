@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AbhiGaur472003
-- 👀 I’m a Software Engineer Intern
+- 👀 I’m a Software Engineer
 
 - 📫 How to reach me can mail me in gaur.abhishek472003@gmail.com.
 
